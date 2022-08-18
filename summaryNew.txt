@@ -1,0 +1,127 @@
+Mean IOU:
+globules
+Original: 0.024224331540553957
+lr_-4 quarter_filters 0.016419260125411183
+lr_-4 half_filters 0.016419260125411183
+lr_-4 full_filters 0.016419260125411183
+lr_-3 quarter_filters 0.016419783418246996
+lr_-3 half_filters 0.016594414705190817
+lr_-3 full_filters 0.002781953858265022
+lr_-2 quarter_filters 0.02074948218823035
+lr_-2 half_filters 0.020319692113618115
+lr_-2 full_filters 0.020680580747925267
+milia_like_cyst
+Original: 0.005755106608072917
+lr_-4 quarter_filters 0.005755106608072917
+lr_-4 half_filters 0.005755106608072917
+lr_-4 full_filters 0.005755106608072917
+lr_-3 quarter_filters 0.005755106608072917
+lr_-3 half_filters 0.005755106608072917
+lr_-3 full_filters 0.005755106608072917
+lr_-2 quarter_filters 0.014101664612334905
+lr_-2 half_filters 0.010052615039879193
+lr_-2 full_filters 0.005755106608072917
+pigment_network
+lr_-4 full_filters_0.1_dropout 0.24432524046103346
+lr_-4 full_filters_0.3_dropout 0.2778014939066933
+lr_-5 full_filters_dropout 0.08099653231520433
+lr_-4 full_filters Dropout: 0.32026732468408237
+lr_-4 1.2_filters 0.16680656811209132
+Additional Block Dropout: 0.29272683444209663
+Additional Block: 0.2909941346966146
+Original: 0.27117101902710905
+lr_-4 quarter_filters 0.07947262380974468
+lr_-4 half_filters 0.080295384293713
+lr_-4 full_filters 0.30640066262626614
+lr_-3 quarter_filters 0.23759853906453174
+lr_-3 half_filters 0.23241138019040794
+lr_-3 full_filters 0.22951367886359408
+lr_-2 quarter_filters 0.11709895544796267
+lr_-2 half_filters 0.14404471160681054
+lr_-2 full_filters 0.2378129775637462
+negative_network
+Original: 0.016851018801656188
+lr_-4 quarter_filters 0.018120659722222224
+lr_-4 half_filters 0.018120659722222224
+lr_-4 full_filters 0.018120659722222224
+lr_-3 quarter_filters 0.018120659722222224
+lr_-3 half_filters 0.018149152308000096
+lr_-3 full_filters 0.018126561109329507
+lr_-2 quarter_filters 0.0050604758277433244
+lr_-2 half_filters 0.0
+lr_-2 full_filters 0.01890848151556816
+streaks
+Original: 0.012220393514195765
+lr_-4 quarter_filters 0.011945088704427084
+lr_-4 half_filters 0.011945088704427084
+lr_-4 full_filters 0.011945088704427084
+lr_-3 quarter_filters 0.011945088704427084
+lr_-3 half_filters 0.011960794816011651
+lr_-3 full_filters 0.0
+lr_-2 quarter_filters 0.0
+lr_-2 half_filters 0.0
+lr_-2 full_filters 0.011067502247000725
+
+Mean Dice Coeff: 
+globules
+Original: 0.024224331540553957
+lr_-4 quarter_filters 0.016419260125411183
+lr_-4 half_filters 0.016419260125411183
+lr_-4 full_filters 0.016419260125411183
+lr_-3 quarter_filters 0.016419783418246996
+lr_-3 half_filters 0.016594414705190817
+lr_-3 full_filters 0.002781953858265022
+lr_-2 quarter_filters 0.02074948218823035
+lr_-2 half_filters 0.020319692113618115
+lr_-2 full_filters 0.020680580747925267
+milia_like_cyst
+Original: 0.005755106608072917
+lr_-4 quarter_filters 0.005755106608072917
+lr_-4 half_filters 0.005755106608072917
+lr_-4 full_filters 0.005755106608072917
+lr_-3 quarter_filters 0.005755106608072917
+lr_-3 half_filters 0.005755106608072917
+lr_-3 full_filters 0.005755106608072917
+lr_-2 quarter_filters 0.014101664612334905
+lr_-2 half_filters 0.010052615039879193
+lr_-2 full_filters 0.005755106608072917
+pigment_network
+lr_-4 full_filters_0.1_dropout 0.36132386773811503
+lr_-4 full_filters_0.3_dropout 0.40416922186821463
+lr_-5 full_filters_dropout 0.1414310672747196
+lr_-4 full_filters Dropout: 0.44983488625140083
+lr_-4 1.2_filters 0.2406571115248327
+Additional Block Dropout: 0.41775677099093794
+Additional Block: 0.41822453306491997
+Original: 0.27117101902710905
+lr_-4 quarter_filters 0.07947262380974468
+lr_-4 half_filters 0.080295384293713
+lr_-4 full_filters 0.30640066262626614
+lr_-3 quarter_filters 0.23759853906453174
+lr_-3 half_filters 0.23241138019040794
+lr_-3 full_filters 0.22951367886359408
+lr_-2 quarter_filters 0.11709895544796267
+lr_-2 half_filters 0.14404471160681054
+lr_-2 full_filters 0.2378129775637462
+negative_network
+Original: 0.016851018801656188
+lr_-4 quarter_filters 0.018120659722222224
+lr_-4 half_filters 0.018120659722222224
+lr_-4 full_filters 0.018120659722222224
+lr_-3 quarter_filters 0.018120659722222224
+lr_-3 half_filters 0.018149152308000096
+lr_-3 full_filters 0.018126561109329507
+lr_-2 quarter_filters 0.0050604758277433244
+lr_-2 half_filters 0.0
+lr_-2 full_filters 0.01890848151556816
+streaks
+Original: 0.012220393514195765
+lr_-4 quarter_filters 0.011945088704427084
+lr_-4 half_filters 0.011945088704427084
+lr_-4 full_filters 0.011945088704427084
+lr_-3 quarter_filters 0.011945088704427084
+lr_-3 half_filters 0.011960794816011651
+lr_-3 full_filters 0.0
+lr_-2 quarter_filters 0.0
+lr_-2 half_filters 0.0
+lr_-2 full_filters 0.011067502247000725
