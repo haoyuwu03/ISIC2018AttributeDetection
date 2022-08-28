@@ -25,6 +25,13 @@ About the dataset:
 Model Architecture Used:
 ![UNET Architecture](https://github.com/haoyuwu03/ISIC2018AttributeDetection/blob/main/UNET_Model_Architecture.png)
 
-Best Results (64 starting filters, 0.2 dropout, 10^-4 learning rate, threshold: 1.2 times positive pixel ratio in masks):
+Best Configurations Found:
+- Learning Rate of 1e^-4
+- Number of filters starting at 64 then doubling at each encoder block, reverse for decoder blocks
+- Dropout 0.2
+- Threshold: 1.2x proportion of positive pixels in training masks
+- Mean Intersection Over Union: 0.3296
+- Dice Coefficient: 0.4589
 
+Example Predictions:
 ![Pigment Network](https://github.com/haoyuwu03/ISIC2018AttributeDetection/blob/main/Pigment_Network_Detection_Results.png)
