@@ -25,6 +25,6 @@ About the dataset:
 Model Architecture Used:
 ![UNET Architecture](https://github.com/haoyuwu03/ISIC2018AttributeDetection/blob/main/UNET_Model_Architecture.png)
 
-Example Results of UNET (64 starting filters, 0.2 dropout, 10^-4 learning rate, threshold: 1.2 times positive pixel ratio in masks):
+Best Results (64 starting filters, 0.2 dropout, 10^-4 learning rate, threshold: 1.2 times positive pixel ratio in masks):
 
 ![Pigment Network](https://github.com/haoyuwu03/ISIC2018AttributeDetection/blob/main/Pigment_Network_Detection_Results.png)
