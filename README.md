@@ -23,7 +23,7 @@ About the dataset:
 - Color scale: RGB
 
 Model Architecture Used:
-
+![UNET Architecture](https://github.com/haoyuwu03/ISIC2018AttributeDetection/blob/main/UNET_Model_Architecture.png)
 
 Example Results of UNET (64 starting filters, 0.2 dropout, 10^-4 learning rate, threshold: 1.2 times positive pixel ratio in masks):
 
