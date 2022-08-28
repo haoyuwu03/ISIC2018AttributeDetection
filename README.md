@@ -1,6 +1,7 @@
 # ISIC2018AttributeDetection
 Duke +Datascience 2022 Spring Research Program
 Skin Lesion Analysis Toward Melanoma Detection 2018: A Challenge Hosted by the International Skin Imaging Collaboration (ISIC)
+
 Detecting symptoms of Malignant Melanoma (skin cancer) from dermoscopic images from the ISIC 2018 Challenge Dataset:
 https://challenge.isic-archive.com/landing/2018/
 
